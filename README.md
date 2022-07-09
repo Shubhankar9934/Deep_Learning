@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shubhankar9934 or you can called me as Shubhankar kumar
 - 👀 I’m interested in learnig Machine learning , Deep Learning  and Artificial intelligence.
 - 🌱 I’m currently learning Artificial intelligence.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... You can Contact me on 8210558907 or mail me on 
 - shubhankarbittu9934@gmail.com
 
